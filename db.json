@@ -1,9 +1,80 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "name": "json-server",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 2,
+      "name": "json-server-2",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 3,
+      "name": "json-server-3",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 4,
+      "name": "json-server-4",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 5,
+      "name": "json-server-4",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 6,
+      "name": "json-server-4",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 7,
+      "name": "json-server-4",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 8,
+      "name": "json-server-4",
+      "years": 10,
+      "interestrate": 2.4
+    },
+    {
+      "id": 50,
+      "name": "f",
+      "yesrs": 4,
+      "interestrate": 4
+    },
+    {
+      "id": 89,
+      "name": "serge",
+      "yesrs": 3,
+      "interestrate": 3
+    },
+    {
+      "id": 2345,
+      "name": "efvae",
+      "yesrs": 3,
+      "interestrate": 3
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
